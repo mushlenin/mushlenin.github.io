@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mushlenin.github.io
+title: site title
+tagline: tag line
+description: description
+paginate: 3
